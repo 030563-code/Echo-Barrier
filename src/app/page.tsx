@@ -33,17 +33,6 @@ export default function Home() {
             priority
           />
         </div>
-        <p
-          style={{
-            margin: 0,
-            color: '#666',
-            fontSize: '15px',
-            fontFamily: 'Roboto, sans-serif',
-            maxWidth: '400px',
-          }}
-        >
-          Your AI-powered sales and product knowledge assistant
-        </p>
       </div>
 
       {/* Agent card */}
