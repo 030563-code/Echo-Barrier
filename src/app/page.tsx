@@ -25,11 +25,11 @@ export default function Home() {
           }}
         >
           <Image
-            src="/Echo-Barrier/images/logo.jpg"
-            alt="Echo Barrier"
+            src="/Echo-Barrier/images/Echo Assist Icon.svg"
+            alt="Echo Assist"
             width={220}
             height={80}
-            style={{ objectFit: 'contain', mixBlendMode: 'multiply' }}
+            style={{ objectFit: 'contain' }}
             priority
           />
         </div>
